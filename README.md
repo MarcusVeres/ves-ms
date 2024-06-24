@@ -13,6 +13,6 @@ Narrow browser window to see the mobile menu.
 
 - [TailwindCSS](https://tailwindcss.com/)
 - [Documentation](https://tailwindcss.com/docs/installation)
-- [TailwindUI] components for faster dev*(https://tailwindui.com/components)
+- [TailwindUI](https://tailwindui.com/components) components for faster dev*
 
 *reach out if you need access. 
